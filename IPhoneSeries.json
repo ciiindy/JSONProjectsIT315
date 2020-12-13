@@ -1,0 +1,33 @@
+{
+  "IPhoneSeries":
+  [
+    {"iPhoneName":"iPhone11",
+     "Description":"The iPhone 11 was introduced in September 2019, and Apple has continued selling it at a reduced starting price of $599 following the introduction of the iPhone 12 lineup. The iPhone 11 features a 6.1-inch display, a dual-lens camera, and an A13 Bionic chip.",
+     "StartingPrice":"$599",
+     "ReleasedDate":"Sep 2019",
+     "Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/burkelake.jpg",
+     "TrailWebsite":"https://www.hikingupward.com/snp/oldrag/"},
+    
+   {"iPhoneName":"iPhone11 Pro",
+     "Description":"Originally introduced in September 2019, the iPhone 11 Pro was discontinued following the introduction of the iPhone 12 lineup. The iPhone 11 Pro and iPhone 11 Pro Max offered triple-lens cameras, A13 chips, faster Face ID, Night Mode, shatter-resistant glass, improved water resistance and more, starting at $999 for the iPhone 11 Pro.",
+     "StartingPrice":"$999",
+     "ReleasedDate":"Sep 2019",
+     "Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/burkelake.jpg",
+     "TrailWebsite":"https://www.hikingupward.com/snp/oldrag/"},
+    
+    {"iPhoneName":"iPhone12",
+     "Description":"Apple announced the iPhone 12 at its October 2020 event. The iPhone lineup now has four distinct models, two pro and two non-pro. The long-rumored flagship iPhone has 5G, flat sides, and an improved camera system.",
+     "StartingPrice":"$829",
+     "ReleasedDate":"Oct 2020",
+     "Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/burkelake.jpg",
+     "TrailWebsite":"https://www.hikingupward.com/snp/oldrag/"},
+    
+    {"iPhoneName":"iPhone12 Pro",
+     "Description":"Apple’s iPhone 12 line is totally redesigned and features four models — the iPhone 12 mini, the iPhone 12, the iPhone 12 Pro, and the iPhone 12 Pro Max — at a range of screen sizes and price points. Across the board, Apple’s added new video features, a new MagSafe charging system, the new A14 processor, and all of the hype it can muster for 5G.",
+     "StartingPrice":"$999",
+     "ReleasedDate":"Oct 2020",
+     "Image":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/burkelake.jpg",
+     "TrailWebsite":"https://www.hikingupward.com/snp/oldrag/"}
+  ],
+  "Status":"OK"
+}
